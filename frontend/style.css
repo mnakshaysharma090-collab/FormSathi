@@ -1,0 +1,79 @@
+body {
+  background: #f3f7fb;
+  font-family: Arial;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  width: 420px;
+  background: white;
+  padding: 25px;
+  border-radius: 15px;
+}
+
+.chat-box {
+  height: 280px;
+  overflow-y: auto;
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 15px 0;
+}
+
+.msg {
+  padding: 10px;
+  margin: 8px 0;
+  border-radius: 10px;
+  max-width: 70%;
+}
+
+.bot {
+  background: #dbeafe;
+}
+
+.user {
+  background: #bbf7d0;
+  margin-left: auto;
+}
+
+.input-row {
+  display: flex;
+  gap: 10px;
+}
+
+input {
+  flex: 1;
+  padding: 10px;
+}
+
+button {
+  padding: 10px;
+  cursor: pointer;
+}
+
+.send-btn {
+  background: #0f4c81;
+  color: white;
+}
+
+.generate-btn {
+  width: 100%;
+  margin-top: 10px;
+  background: green;
+  color: white;
+}
+
+.typing {
+  opacity: 0.6;
+}
+
+.download-btn {
+  display: block;
+  margin-top: 10px;
+  background: green;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
