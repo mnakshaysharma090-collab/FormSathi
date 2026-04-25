@@ -2,7 +2,7 @@
 node_modules/
 
 # Environment variables (secrets)
-.env
+*.env
 
 # Generated files (your PDFs)
 backend/generated/
