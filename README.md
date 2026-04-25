@@ -1,2 +1,6 @@
-FormSathi
-AI assistant to simplify government processes with document understanding, step-by-step guidance, and form auto-filling. Team ID- UDB-3RH3 Team Leader Name - Akshay Sharma Team Members; Member 1 - Maahi Jain, Member 2 - Mayank Adwani.
+# FormSathi
+AI assistant to simplify government processes with document understanding, step-by-step guidance, and form auto-filling.
+Team ID- UDB-3RH3
+Team Leader Name - Akshay Sharma
+Team Members;
+Member 1 - Maahi Jain, Member 2 - Mayank Adwani. 
